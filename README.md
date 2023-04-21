@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pabloroldan98 ! I'm a Computer Engineer & Mathematician.
-- 👀 I’m interested in Machine Learning, Artificial Intelligence, Big Data and Video game Development.
+- 👀 I’m interested in Data Science, Machine Learning and Artificial Intelligence.
 - 
 - 📫 Contact me: pablo.roldan.peigneux@gmail.com or https://www.linkedin.com/in/pablo-roldanp/?locale=en_US .
 
